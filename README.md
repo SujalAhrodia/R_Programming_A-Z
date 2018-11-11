@@ -1,5 +1,9 @@
 # R_Analytics_For_Movies
-Analytical insights in a Movie dataset using R programming language
+
+R Programming A-Z™: R For Data Science With Real Exercises! 
+(Data Analytics, Data Science, Statistical Analysis, Packages, Functions, GGPlot2) 
+
+Created by Kirill Eremenko, SuperDataScience Team
 
 ![alt text](https://github.com/SujalAhrodia/R_Analytics_For_Movies/blob/master/Rplot.png)
 
