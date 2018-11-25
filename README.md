@@ -3,7 +3,7 @@
 R Programming A-Z™: R For Data Science With Real Exercises! 
 (Data Analytics, Data Science, Statistical Analysis, Packages, Functions, GGPlot2) 
 
-Created by Kirill Eremenko, SuperDataScience Team
+Course by Kirill Eremenko, SuperDataScience Team
 
 ![alt text](./Plots/Rplot.png)
 
